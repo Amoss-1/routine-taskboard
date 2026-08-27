@@ -1,6 +1,6 @@
 {
   "name": "routine-taskboard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "Routine taskboard for DSH: a dedicated registry of long-lived scheduled infrastructure placards (windows tasks / cron / ai sessions) with dual-source health lamps and artifact freshness, plus a lightweight claimable work-order board.",
   "main": "lib/index.js",
