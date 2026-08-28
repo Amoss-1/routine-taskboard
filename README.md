@@ -136,6 +136,14 @@ ctx.inject(['workspaceRegistry'], (wsCtx) => {
 4. Users update through the plugin market; upgrades never touch
    `$DSH_HOME/storages/routine-taskboard.config.json` or the fixture registry.
 
+
+## Contributing
+
+Contributions are welcome — bug reports, UI polish, docs, and features.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide (setup, issue/PR
+flow, conventions, release checklist). The repo is
+<https://github.com/Amoss-1/routine-taskboard>; MIT licensed.
+
 ## License
 
 MIT © Amoss-1
