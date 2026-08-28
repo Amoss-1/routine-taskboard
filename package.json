@@ -32,7 +32,8 @@
                   "lib/**/*.js",
                   "cordis.patch.yml",
                   "LICENSE",
-                  "README.md"
+                  "README.md",
+                  "CONTRIBUTING.md"
               ],
     "license":  "MIT",
     "author":  "Amoss-1",
