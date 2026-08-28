@@ -40,7 +40,7 @@ Machine-specific paths and curated mappings are **not** shipped. Create:
   "pipelineFile": "D:/data/pipeline_status.json",
   "scriptBases": [["^ops-automation[\\\\/]", "D:\\work\\ops-automation\\\\"], ["^douyin_update\\\\.py$", "D:\\work\\douyin\\\\douyin_update.py"]],
   "ioMap": { "douyin-update": { "input": "D:\\data\\门店记录表.xlsx", "output": "D:\\data\\维表.xlsx" } },
-  "ioByTitle": [{ "match": "临时区清理", "input": "D:\\temp_kai", "output": "" }],
+  "ioByTitle": [{ "match": "临时区清理", "input": "D:\\work\\temp", "output": "" }],
   "scriptMap": { "daily-report": [{ "label": "run.bat", "path": "D:\\work\\daily-report\\run.bat" }] },
   "scriptByTitle": [{ "match": "会话守护", "scripts": [{ "label": "guard.ps1", "path": "D:\\x\\guard.ps1" }] }],
   "pathHints": { "依赖文档": "D:\\data\\依赖文档\\\" }
